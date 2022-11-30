@@ -1,0 +1,47 @@
+.article-container {
+    padding: 20px;
+}
+.posted-date {
+    margin-top: 12px;
+}
+.header {
+    text-align: center;
+}
+.read-also-header {
+    text-align: center;
+}
+.image {
+    text-align: center;
+    padding: 15px;
+    background-color: #d9d6d6;
+}
+.image img {
+    width: 80%;
+}
+.after-image-block {
+    padding: 15px;
+    background-color: #d9d6d6;
+}
+.read_more_btn {
+    border: 1px solid;
+    font-size: small;
+}
+.article-container .link {
+    text-decoration: unset;
+    color: unset;
+}
+.header-image {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.header-image image {
+    width: 100%;
+    height: 207px;
+    object-fit: cover;
+}
+.other-articles-section {
+    margin-top: 40px;
+}
+.bottom-block {
+    margin-top: 15px;
+}
